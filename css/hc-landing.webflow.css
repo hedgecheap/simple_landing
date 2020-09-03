@@ -977,7 +977,7 @@ a {
   font-family: Montserrat, sans-serif;
   color: #fff;
   font-size: 3vh;
-  line-height: 100%;
+  line-height: 150%;
 }
 
 .bottom-image-wrap {
@@ -1215,6 +1215,7 @@ a {
 
 .heading-3 {
   width: 50%;
+  margin-bottom: 20px;
   font-family: Montserrat, sans-serif;
   line-height: 100%;
   font-weight: 400;
