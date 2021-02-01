@@ -1242,10 +1242,12 @@ a {
     font-size: 34px;
     line-height: 44px;
   }
+
   h3 {
     font-size: 20px;
     line-height: 32px;
   }
+
   .section.center {
     height: 100%;
     padding-top: 15vh;
@@ -1258,25 +1260,32 @@ a {
     background-color: transparent;
     background-image: none;
   }
+
   .hero {
     padding-right: 0vw;
     padding-left: 0vw;
   }
+
   .nav {
     width: 100vw;
   }
+
   .nav-inner {
     width: 100vw;
   }
+
   .nav-link {
     padding-top: 20px;
   }
+
   .nav-link:hover {
     box-shadow: none;
   }
+
   .nav-menu {
     position: absolute;
   }
+
   .hero-image {
     position: relative;
     left: 0vw;
@@ -1290,35 +1299,42 @@ a {
     margin-bottom: 7vw;
     margin-left: auto;
   }
+
   .hero-content {
     padding-right: 5vw;
     padding-left: 5vw;
   }
+
   .feature-wrap {
     margin-top: 5vh;
     margin-bottom: 5vh;
     padding-right: 0vw;
     padding-left: 0vw;
   }
+
   .feature-wrap.logos {
     margin-top: 5vh;
     margin-bottom: 5vh;
   }
+
   .hero-subhead {
     width: 60%;
     max-width: 80%;
     font-size: 2.5vh;
   }
+
   .bottom-image-wrap {
     height: auto;
     background-image: none;
   }
+
   .feature-icon {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
   }
+
   .quote-slider {
     width: 100vw;
     height: auto;
@@ -1326,16 +1342,20 @@ a {
     padding-top: 50px;
     padding-bottom: 50px;
   }
+
   .quote-wrap {
     width: 70vw;
   }
+
   .menu-icon {
     color: #fff;
     font-size: 40px;
   }
+
   .menu-button.w--open {
     background-color: #000;
   }
+
   .nav-menu-2 {
     min-width: 240px;
     padding-top: 20px;
@@ -1343,9 +1363,11 @@ a {
     padding-left: 20px;
     background-color: #000;
   }
+
   .brand {
     padding-left: 18px;
   }
+
   .heading-3 {
     width: 60%;
     font-size: 6vw;
@@ -1357,6 +1379,7 @@ a {
     font-size: 28px;
     line-height: 38px;
   }
+
   .feature-content.icons {
     width: auto;
     padding-right: 0px;
@@ -1368,6 +1391,7 @@ a {
     align-items: flex-start;
     text-align: left;
   }
+
   .feature-content.icons.numbers {
     width: 50%;
     -webkit-box-align: center;
@@ -1379,10 +1403,12 @@ a {
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
   }
+
   .button.form-button {
     border-top-right-radius: 0px;
     border-bottom-left-radius: 3px;
   }
+
   .wrap {
     display: -webkit-box;
     display: -webkit-flex;
@@ -1409,12 +1435,15 @@ a {
     -ms-flex-align: center;
     align-items: center;
   }
+
   .hero-image {
     margin-bottom: 10vw;
   }
+
   .hero-content {
     margin-bottom: 5vh;
   }
+
   .feature-wrap {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -1422,6 +1451,7 @@ a {
     -ms-flex-direction: row;
     flex-direction: row;
   }
+
   .feature-wrap.icons {
     display: block;
     -webkit-box-orient: horizontal;
@@ -1433,19 +1463,23 @@ a {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
   }
+
   .feature-wrap.icons.numbers {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
   }
+
   .hero-subhead {
     font-size: 2vh;
   }
+
   .footer-link {
     display: inline-block;
     margin-bottom: 10px;
   }
+
   .form-2 {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -1453,6 +1487,7 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+
   .input {
     padding-right: 22px;
     padding-left: 22px;
@@ -1460,6 +1495,7 @@ a {
     border-bottom-left-radius: 0px;
     text-align: center;
   }
+
   .quote-attribution {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -1471,9 +1507,11 @@ a {
     -ms-flex-align: center;
     align-items: center;
   }
+
   .menu-icon {
     font-size: 30px;
   }
+
   .form-block {
     width: 100%;
   }
@@ -1484,44 +1522,55 @@ a {
     font-size: 60px;
     line-height: 70px;
   }
+
   h3 {
     font-size: 16px;
   }
+
   .section.center {
     padding-bottom: 10vh;
   }
+
   .hero {
     padding-right: 0vw;
     padding-left: 0vw;
   }
+
   .nav-inner {
     width: 100vw;
   }
+
   .feature-content {
     width: auto;
   }
+
   .feature-content.icons.numbers {
     padding-right: 15px;
     padding-left: 15px;
     text-align: center;
   }
+
   .button {
     max-width: 73.18793%;
     padding: 10px 20px;
     font-size: 13px;
   }
+
   .button.contact {
     width: 100%;
     margin-top: 10px;
     margin-left: 0px;
   }
+
   .wrap {
     padding-right: 5vw;
     padding-left: 5vw;
   }
+
   .image-2 {
     width: 100%;
   }
+
   .button-wrap {
     width: 90vw;
     -webkit-box-orient: vertical;
@@ -1530,9 +1579,11 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+
   .hero-image {
     width: 80%;
   }
+
   .feature-wrap {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -1540,6 +1591,7 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+
   .feature-wrap.reverse {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -1547,17 +1599,21 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+
   .feature-image {
     width: auto;
     margin-top: 30px;
     margin-bottom: 30px;
   }
+
   .hero-subhead {
     font-size: 1.5vh;
   }
+
   .feature-icon {
     margin-bottom: 20px;
   }
+
   .form-2 {
     width: 90vw;
     -webkit-box-orient: vertical;
@@ -1566,23 +1622,29 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+
   .quote-slider {
     width: 100vw;
     padding-right: 5vw;
     padding-left: 5vw;
   }
+
   .slider-arrow {
     font-size: 24px;
   }
+
   .left-arrow {
     width: 15vw;
   }
+
   .right-arrow {
     width: 15vw;
   }
+
   .number {
     font-size: 40px;
   }
+
   .heading-3 {
     width: 60%;
     font-size: 2.5vh;
