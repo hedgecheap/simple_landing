@@ -2192,11 +2192,12 @@ body {
 @media screen and (max-width: 479px) {
   .heading.topheading {
     font-size: 10vw;
-    text-align: left;
+    text-align: center;
   }
 
   .heading.midheading {
     font-size: 7vw;
+    text-align: center;
   }
 
   .button {
@@ -2255,9 +2256,14 @@ body {
   .logo-image {
     width: 180px;
     height: auto;
+    padding-top: 20px;
   }
 
   .phone-wrap {
+    display: none;
+  }
+
+  .mobile-button-link {
     display: none;
   }
 
@@ -2284,6 +2290,7 @@ body {
 
   .paragraph-hero {
     font-size: 4vw;
+    text-align: center;
   }
 
   .flowbase-close-card {
@@ -2320,6 +2327,10 @@ body {
 
   .hero-image {
     margin-bottom: 20px;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
   }
 
   .flowbase-card-delete {
