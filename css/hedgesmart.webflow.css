@@ -29,7 +29,6 @@ body {
 
 .container {
   width: 100%;
-  max-width: 1240px;
   margin-right: auto;
   margin-left: auto;
   padding-left: 40px;
@@ -63,7 +62,7 @@ body {
   margin-top: 20px;
   font-family: Montserrat, sans-serif;
   color: rgba(26, 48, 102, 0.54);
-  font-size: 2.5vw;
+  font-size: 2.2vw;
   line-height: 1.1;
   font-weight: 300;
   text-align: left;
@@ -85,12 +84,12 @@ body {
 }
 
 .button {
-  margin-right: 15px;
-  padding: 18px 35px;
+  margin-right: 1em;
+  padding: 1em 2em;
   border-radius: 45px;
   background-color: #484dff;
   font-family: Montserrat, sans-serif;
-  font-size: 16px;
+  font-size: 1.2vw;
 }
 
 .button.button-space {
@@ -386,7 +385,7 @@ body {
 .link {
   font-family: Montserrat, sans-serif;
   color: #546681;
-  font-size: 16px;
+  font-size: 1.2vw;
   text-decoration: none;
 }
 
@@ -588,7 +587,6 @@ body {
   display: -ms-flexbox;
   display: flex;
   width: 100%;
-  max-width: 1240px;
   margin-right: auto;
   margin-left: auto;
   -webkit-box-pack: justify;
@@ -1010,7 +1008,6 @@ body {
 }
 
 .paragraph-hero {
-  max-width: 490px;
   margin-top: 20px;
   font-family: Montserrat, sans-serif;
   color: #546681;
@@ -1102,7 +1099,6 @@ body {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  max-width: 1240px;
   margin-top: 50px;
   margin-right: auto;
   margin-left: auto;
@@ -1591,7 +1587,6 @@ body {
   display: -ms-flexbox;
   display: flex;
   width: 100%;
-  max-width: 1240px;
   margin-right: auto;
   margin-left: auto;
   -webkit-box-pack: justify;
@@ -1649,6 +1644,10 @@ body {
 
 .text-span-3 {
   color: #5b3acc;
+}
+
+.hero-image {
+  width: 100.000021%;
 }
 
 .remove-before-use {
