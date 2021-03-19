@@ -12,7 +12,7 @@ body {
   display: -ms-flexbox;
   display: flex;
   min-height: 72vh;
-  padding: 120px 3% 80px;
+  padding: 120px 3% 80px 5%;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -31,7 +31,7 @@ body {
   width: 100%;
   margin-right: auto;
   margin-left: auto;
-  padding-left: 40px;
+  padding-left: 0px;
 }
 
 .container.space-below {
@@ -53,6 +53,7 @@ body {
 }
 
 .heading.topheading {
+  margin-bottom: 1vw;
   font-family: Montserrat, sans-serif;
   font-size: 4.5vw;
   font-weight: 300;
@@ -60,6 +61,7 @@ body {
 
 .heading.midheading {
   margin-top: 20px;
+  margin-bottom: 1vw;
   font-family: Montserrat, sans-serif;
   color: rgba(26, 48, 102, 0.54);
   font-size: 2.2vw;
@@ -458,7 +460,7 @@ body {
   -ms-flex-align: center;
   align-items: center;
   color: #546681;
-  font-size: 16px;
+  font-size: 1vw;
   line-height: 24px;
   text-decoration: none;
 }
@@ -551,6 +553,10 @@ body {
   min-width: 360px;
 }
 
+.logo-image {
+  width: 15vw;
+}
+
 .dropdown-mobile {
   display: none;
 }
@@ -577,7 +583,8 @@ body {
 
 .phone-image {
   display: block;
-  margin-right: 8px;
+  width: 2vw;
+  margin-right: 0.5vw;
   text-align: center;
 }
 
@@ -1009,6 +1016,7 @@ body {
 
 .paragraph-hero {
   margin-top: 20px;
+  margin-bottom: 1vw;
   font-family: Montserrat, sans-serif;
   color: #546681;
   font-size: 1.6vw;
